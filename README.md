@@ -12,3 +12,7 @@
 - CSS3
 - Flex + Grid
 - Адаптивная верстка
+
+## Посмотреть проект
+
+[Ссылка на проект](https://shahtarov.github.io/russian-travel/)
