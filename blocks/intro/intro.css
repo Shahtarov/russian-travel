@@ -3,13 +3,11 @@
 	padding-left: 148px;
 	max-width: 690px;
 	min-width: 288px;
-	box-sizing: border-box;
 }
 
 @media screen and (max-width: 1279px) {
 	.intro {
 		padding-left: 48px;
-		max-width: 720px;
 	}
 }
 
@@ -17,7 +15,6 @@
 	.intro {
 		margin-top: 88px;
 		padding: 0 24px;
-		max-width: 720px;
 	}
 }
 
