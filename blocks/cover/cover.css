@@ -1,37 +1,16 @@
 .cover {
-	margin: 60px auto 0;
+	margin: 92px auto 0;
 	max-width: 1184px;
-	height: calc(100vw * 0.6);
-	max-height: 740px;
-}
-
-@media screen and (width: 1024px) {
-	.cover {
-		height: 640px;
-	}
 }
 
 @media screen and (max-width: 1023px) {
 	.cover {
-		margin-top: 58px;
-	}
-}
-
-
-@media screen and (width: 768px) {
-	.cover {
-		height: 480px;
+		margin-top: 90px;
 	}
 }
 
 @media screen and (max-width: 767px) {
 	.cover {
-		margin-top: 34px;
-	}
-}
-
-@media screen and (width: 320px) {
-	.cover {
-		height: 200px;
+		margin-top: 66px;
 	}
 }

@@ -4,9 +4,7 @@
 	display: grid;
 	grid-template-columns: repeat(2, 1fr);
 	grid-template-rows: 1fr min-content max-content;
-	/* row-gap: 48px;*/
 	column-gap: 40px;
-	/* box-sizing: border-box; */
 }
 
 
@@ -29,7 +27,6 @@
 	.place {
 		padding: 0 24px;
 		column-gap: 28px;
-		/* max-width: 720px; */
 	}
 }
 
@@ -37,8 +34,6 @@
 	.place {
 		padding: 0;
 		grid-template-columns: 100%;
-		/* grid-template-rows: repeat(auto-fit, 100%); */
-		/* row-gap: 32px;*/
 		column-gap: 0;
 		max-width: 100vw;
 	}
